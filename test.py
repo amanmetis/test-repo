@@ -1,9 +1,6 @@
-import  time
-
-
-for _ in range(10):
-    time.sleep(10)
 
 
 for i in range(10):
-    print(i)
+    for j in range(20):
+        for k in range(30):
+            gunicorn.ioiorr()
